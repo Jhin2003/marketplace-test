@@ -1,9 +1,11 @@
 .card{
-    width: 100px;
+    flex-basis: calc(20% - 10px);
+    flex-grow: 1;
+    width: 240px;
         /* Set the desired width of the parent div */
-        height: 100px;
+    height: 260px;
         /* Set the desired height of the parent div */
-        position: relative;
+  
         
 }
 

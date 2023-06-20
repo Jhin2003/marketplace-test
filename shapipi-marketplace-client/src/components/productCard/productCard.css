@@ -1,0 +1,18 @@
+.card {
+  flex-basis: calc(20% - 10px);
+  flex-grow: 1;
+  width: 240px;
+  /* Set the desired width of the parent div */
+  height: 260px;
+  /* Set the desired height of the parent div */
+}
+
+img {
+  width: 100%;
+  /* Make the image width 100% of the parent div */
+  height: 100%;
+  /* Make the image height 100% of the parent div */
+  -o-object-fit: cover;
+     object-fit: cover;
+  /* Maintain the image's aspect ratio and cover the parent div */
+}/*# sourceMappingURL=productCard.css.map */

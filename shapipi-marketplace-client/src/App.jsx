@@ -1,7 +1,7 @@
 
-import './styles/App.scss'
-import Header from './components/header';
-import ProductsList from './components/productsList';
+import './app/App.scss'
+import Header from './components/header/header';
+import ProductsList from './components/productList/productsList';
 
 
 
